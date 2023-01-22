@@ -298,10 +298,10 @@ body {
   --h5-weight: 550;
   --h6-weight: 550;
 
-  --h1-color: var(--text-normal);
-  --h2-color: var(--text-normal);
-  --h3-color: var(--text-normal);
-  --h4-color: var(--text-normal);
+  --h1-color: #e5b567;
+  --h2-color: #b4d273;
+  --h3-color: #e87d3e;
+  --h4-color: #b05279;
   --h5-color: var(--text-normal);
   --h6-color: var(--text-normal);
 
